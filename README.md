@@ -2,11 +2,13 @@
 
 ## iOS Developer
 
-- 📱 iOS Developer (Swift & Objective-C)
-- 💻 PHP / Laravel Backend
-- 🚀 Mobile Application Developer
-- 🌍 Turkey
+## 💼 About Me
 
+- 💼 I am currently working at **[Limonist Meta](http://limonist.com/)**
+- 🚀 I am currently building **[Optium](https://optium.com.tr/en)**
+- 📱 I specialize in iOS Development with Swift & Objective-C
+- 🌐 I also develop backend solutions using PHP & Laravel
+- 📍 Based in Türkiye
 ---
 
 ## Technologies
