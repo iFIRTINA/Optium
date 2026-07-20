@@ -22,9 +22,3 @@
 ![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
 
 ---
-
-## Connect with me
-
-- 🌐 https://example.com
-- 💼 LinkedIn
-- 📧 Mail
